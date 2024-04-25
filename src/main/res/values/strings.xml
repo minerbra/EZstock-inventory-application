@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS-360 Brady Miner</string>
+    <string name="add_item">Add Item</string>
+    <string name="inventory_app">Inventory App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="failed_login">Login credentials are invalid. Please try again or create an account.</string>
+    <string name="failed_registration">Profile already exists.</string>
+    <string name="don_t_have_an_account_create_one">Don\'t have an account? Create one.</string>
+    <string name="create_account">Create Account</string>
+    <string name="empty_list">No inventory found.</string>
+</resources>
