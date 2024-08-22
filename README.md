@@ -10,6 +10,12 @@ This is a basic Inventory Management Application built using Android Studio. The
 - Delete products from the inventory.
 - View a list of all available products.
 
+# Technologies
+- Java
+- Android SDK
+- SQLite (storing data locally)
+- XML (UI design)
+
 # Screenshots
 ### User login page
 <img width="497" alt="Screenshot 2024-08-22 at 10 16 07 AM" src="https://github.com/user-attachments/assets/8a3a42c2-0b50-422a-8480-ec5466d58ba7">
@@ -22,4 +28,9 @@ This is a basic Inventory Management Application built using Android Studio. The
 
 ### Logout validation
 <img width="497" alt="Screenshot 2024-08-22 at 11 09 27 AM" src="https://github.com/user-attachments/assets/ae922b04-3f44-49fb-b88e-964499737824">
+
+# Future Improvements
+- Enhance user authentication: Implement OAuth2 or other authentication methods.
+- Cloud data storage: Transition from local SQLite storage.
+- Multi-user access: Allow multiple users with different roles to access the application with specific permissions (Admin).
 
