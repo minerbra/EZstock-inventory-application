@@ -20,4 +20,6 @@ This is a basic Inventory Management Application built using Android Studio. The
 ### Home screen
 <img width="497" alt="Screenshot 2024-08-22 at 11 02 05 AM" src="https://github.com/user-attachments/assets/3494ee15-778d-449a-88ba-8fcab43d69d5">
 
+### Logout validation
+<img width="497" alt="Screenshot 2024-08-22 at 11 09 27 AM" src="https://github.com/user-attachments/assets/ae922b04-3f44-49fb-b88e-964499737824">
 
